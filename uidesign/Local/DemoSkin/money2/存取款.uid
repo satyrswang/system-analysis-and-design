@@ -1,0 +1,292 @@
+
+  <Object type="ControlLibrary.UIForm, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UIForm1" children="Controls">
+    <Object type="ControlLibrary.UIButton, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UIButton2" children="Controls">
+      <Property name="ScaleFlag">0</Property>
+      <Property name="SkinButtonTextOffset">0, 1</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="BeforeScaleLocation">0, 0</Property>
+      <Property name="SkinVariableSize">0, 0</Property>
+      <Property name="SkinParameters" />
+      <Property name="BeforeScaleSize">0, 0</Property>
+      <Property name="Text">取消</Property>
+      <Property name="DisplayText">按钮</Property>
+      <Property name="SkinImageHightlight" />
+      <Property name="SkinName" />
+      <Property name="Location">369, 260</Property>
+      <Property name="ControlStatus">0</Property>
+      <Property name="FlatAppearance">
+        <Property name="BorderSize">0</Property>
+        <Property name="MouseDownBackColor">Transparent</Property>
+        <Property name="MouseOverBackColor">Transparent</Property>
+      </Property>
+      <Property name="IsInTemplate">False</Property>
+      <Property name="SkinStyle" />
+      <Property name="SkinControlStyles" />
+      <Property name="FlatStyle">Flat</Property>
+      <Property name="TabIndex">7</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinImageFocus" />
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinAngleSize">5, 5</Property>
+      <Property name="SkinButtonSize">0, 0</Property>
+      <Property name="SkinBackgroundImage">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAIwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5JbWFnZSwgU3lzdGVtLkRyYXdpbmcsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAABZTeXN0ZW0uRHJhd2luZy5JbWFnZVtdAgAAAAgICQMAAAAAAAAAAAAAAAcDAAAAAAEAAAAAAAAABBRTeXN0ZW0uRHJhd2luZy5JbWFnZQIAAAAL</Binary>
+      </Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="SkinButtonImage" />
+      <Property name="ControlIconLayout">0</Property>
+      <Property name="SkinThumbnailImage" />
+      <Property name="SkinIcon" />
+      <Property name="SkinImageDisable" />
+      <Property name="Name">UIButton2</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="DisplayName">UIButton2</Property>
+      <Property name="SkinForeColor">ControlText</Property>
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="UserSize">False</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="BeforeScaleFont" />
+      <Property name="SkinImageClick" />
+      <Property name="SkinImageNormal" />
+    </Object>
+    <Object type="ControlLibrary.UIButton, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UIButton1" children="Controls">
+      <Property name="ScaleFlag">0</Property>
+      <Property name="SkinButtonTextOffset">0, 1</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="BeforeScaleLocation">0, 0</Property>
+      <Property name="SkinVariableSize">0, 0</Property>
+      <Property name="SkinParameters" />
+      <Property name="BeforeScaleSize">0, 0</Property>
+      <Property name="Text">确认</Property>
+      <Property name="DisplayText">按钮</Property>
+      <Property name="SkinImageHightlight" />
+      <Property name="SkinName" />
+      <Property name="Location">235, 261</Property>
+      <Property name="ControlStatus">0</Property>
+      <Property name="FlatAppearance">
+        <Property name="BorderSize">0</Property>
+        <Property name="MouseDownBackColor">Transparent</Property>
+        <Property name="MouseOverBackColor">Transparent</Property>
+      </Property>
+      <Property name="IsInTemplate">False</Property>
+      <Property name="SkinStyle" />
+      <Property name="SkinControlStyles" />
+      <Property name="FlatStyle">Flat</Property>
+      <Property name="TabIndex">6</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinImageFocus" />
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinAngleSize">5, 5</Property>
+      <Property name="SkinButtonSize">0, 0</Property>
+      <Property name="SkinBackgroundImage">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAIwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5JbWFnZSwgU3lzdGVtLkRyYXdpbmcsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAABZTeXN0ZW0uRHJhd2luZy5JbWFnZVtdAgAAAAgICQMAAAAAAAAAAAAAAAcDAAAAAAEAAAAAAAAABBRTeXN0ZW0uRHJhd2luZy5JbWFnZQIAAAAL</Binary>
+      </Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="SkinButtonImage" />
+      <Property name="ControlIconLayout">0</Property>
+      <Property name="SkinThumbnailImage" />
+      <Property name="SkinIcon" />
+      <Property name="SkinImageDisable" />
+      <Property name="Name">UIButton1</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="DisplayName">UIButton1</Property>
+      <Property name="SkinForeColor">ControlText</Property>
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="UserSize">False</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="BeforeScaleFont" />
+      <Property name="SkinImageClick" />
+      <Property name="SkinImageNormal" />
+    </Object>
+    <Object type="ControlLibrary.UIRadioButton, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UIRadioButton2" children="Controls">
+      <Property name="SkinCheckedPushedImage" />
+      <Property name="DisplayText">单选按钮</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinVariableSize">15, 15</Property>
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinUncheckedNormalImage" />
+      <Property name="SkinUncheckedDisableImage" />
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinName" />
+      <Property name="Size">44, 15</Property>
+      <Property name="SkinTextOffset">0, 0</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="TabStop">True</Property>
+      <Property name="SkinThumbnailImage" />
+      <Property name="Location">132, 176</Property>
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Text">取款</Property>
+      <Property name="SkinStyle" />
+      <Property name="SkinBackgroundImage" />
+      <Property name="DisplayName">UIRadioButton2</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Name">UIRadioButton2</Property>
+      <Property name="SkinForeColor">ControlText</Property>
+      <Property name="TabIndex">5</Property>
+      <Property name="SkinCheckedNormalImage" />
+      <Property name="SkinControlStyles" />
+      <Property name="SkinParameters" />
+      <Property name="IsInTemplate">False</Property>
+      <Property name="SkinIcon" />
+      <Property name="SkinUncheckedPushedImage" />
+      <Property name="SkinBackgroudImage" />
+      <Property name="SkinCheckedDisableImage" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+    </Object>
+    <Object type="ControlLibrary.UIRadioButton, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UIRadioButton1" children="Controls">
+      <Property name="SkinCheckedPushedImage" />
+      <Property name="DisplayText">单选按钮</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinVariableSize">15, 15</Property>
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinUncheckedNormalImage" />
+      <Property name="SkinUncheckedDisableImage" />
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinName" />
+      <Property name="Size">44, 15</Property>
+      <Property name="SkinTextOffset">0, 0</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="TabStop">True</Property>
+      <Property name="SkinThumbnailImage" />
+      <Property name="Location">132, 110</Property>
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Text">存款</Property>
+      <Property name="SkinStyle" />
+      <Property name="SkinBackgroundImage" />
+      <Property name="DisplayName">UIRadioButton1</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Name">UIRadioButton1</Property>
+      <Property name="SkinForeColor">ControlText</Property>
+      <Property name="TabIndex">4</Property>
+      <Property name="SkinCheckedNormalImage" />
+      <Property name="SkinControlStyles" />
+      <Property name="SkinParameters" />
+      <Property name="IsInTemplate">False</Property>
+      <Property name="SkinIcon" />
+      <Property name="SkinUncheckedPushedImage" />
+      <Property name="SkinBackgroudImage" />
+      <Property name="SkinCheckedDisableImage" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+    </Object>
+    <Object type="ControlLibrary.UITextBox, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UITextBox2" children="Controls">
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinBackgroundImageFocus" />
+      <Property name="IsInTemplate">False</Property>
+      <Property name="DisplayText">文本框</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Name">UITextBox2</Property>
+      <Property name="SkinBackgroundImageNormal" />
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinName" />
+      <Property name="SkinBackgroundImageInput" />
+      <Property name="SkinVariableSize">0, 0</Property>
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinImage" />
+      <Property name="SkinImageFocusCutting">4, 4, 2, 2</Property>
+      <Property name="SkinParameters" />
+      <Property name="SkinThumbnailImage" />
+      <Property name="TipColor">
+      </Property>
+      <Property name="SkinStyle" />
+      <Property name="TipFont" />
+      <Property name="BorderStyle">None</Property>
+      <Property name="Location">211, 171</Property>
+      <Property name="SkinBackgroundImageDisabled" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="SkinControlStyles" />
+      <Property name="SkinImageNormalCutting">3, 3, 1, 1</Property>
+      <Property name="SkinBackgroundImage" />
+      <Property name="SkinForeColor">WindowText</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="TipText" />
+      <Property name="DisplayName">UITextBox2</Property>
+      <Property name="Size">100, 20</Property>
+      <Property name="SkinIcon" />
+    </Object>
+    <Object type="ControlLibrary.UITextBox, ControlLibrary, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null" name="UITextBox1" children="Controls">
+      <Property name="SkinFont">宋体, 12px</Property>
+      <Property name="ToolTipsData" />
+      <Property name="SkinBackgroundImageFocus" />
+      <Property name="IsInTemplate">False</Property>
+      <Property name="DisplayText">文本框</Property>
+      <Property name="UseSkin">False</Property>
+      <Property name="Font">宋体, 12px</Property>
+      <Property name="Name">UITextBox1</Property>
+      <Property name="SkinBackgroundImageNormal" />
+      <Property name="SkinCutting">0, 0, 0, 0</Property>
+      <Property name="SkinName" />
+      <Property name="SkinBackgroundImageInput" />
+      <Property name="SkinVariableSize">0, 0</Property>
+      <Property name="SkinCornerRadius">0, 0, 0, 0</Property>
+      <Property name="SkinImage" />
+      <Property name="SkinImageFocusCutting">4, 4, 2, 2</Property>
+      <Property name="SkinParameters" />
+      <Property name="SkinThumbnailImage" />
+      <Property name="TipColor">
+      </Property>
+      <Property name="SkinStyle" />
+      <Property name="TipFont" />
+      <Property name="BorderStyle">None</Property>
+      <Property name="Location">211, 110</Property>
+      <Property name="SkinBackgroundImageDisabled" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="SkinControlStyles" />
+      <Property name="SkinImageNormalCutting">3, 3, 1, 1</Property>
+      <Property name="SkinBackgroundImage" />
+      <Property name="SkinForeColor">WindowText</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="TipText" />
+      <Property name="DisplayName">UITextBox1</Property>
+      <Property name="Size">100, 20</Property>
+      <Property name="SkinIcon" />
+    </Object>
+    <Property name="Name">UIForm1</Property>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="SkinName">DemoSkin</Property>
+    <Property name="SkinButtonMaximize">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAABoAAAAAAAAABoAAAAUAAAAAfv////8////aAAAABQAAAAaAAAAFAAAAAH6/////P///2gAAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+    <Property name="ClientSize">574, 406</Property>
+    <Property name="SkinButtonRestore">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAABOAAAAAAAAABoAAAAUAAAAAfv////8////TgAAABQAAAAaAAAAFAAAAAH6/////P///04AAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+    <Property name="SkinButtonFeedBack">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAAAAAAAAAAAAABoAAAAUAAAAAfv////8////AAAAABQAAAAaAAAAFAAAAAH6/////P///wAAAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+    <Property name="SkinButtonMinimize">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAAA0AAAAAAAAABoAAAAUAAAAAfv////8////NAAAABQAAAAaAAAAFAAAAAH6/////P///zQAAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+    <Property name="IsDrawGrid">False</Property>
+    <Property name="SkinButtonClose">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAACCAAAAAAAAABoAAAAUAAAAAfv////8////ggAAABQAAAAaAAAAFAAAAAH6/////P///4IAAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+    <Property name="SkinButtonMenu">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0yLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EEAQAAAJABU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUsIFN5c3RlbS5EcmF3aW5nLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAaU3lzdGVtLkRyYXdpbmcuUmVjdGFuZ2xlW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEGFN5c3RlbS5EcmF3aW5nLlJlY3RhbmdsZQIAAAAF/P///xhTeXN0ZW0uRHJhd2luZy5SZWN0YW5nbGUEAAAAAXgBeQV3aWR0aAZoZWlnaHQAAAAACAgICAIAAAAaAAAAAAAAABoAAAAUAAAAAfv////8////GgAAABQAAAAaAAAAFAAAAAH6/////P///xoAAAAoAAAAGgAAABQAAAAB+f////z///8AAAAAAAAAAAAAAAAAAAAACw==</Binary>
+    </Property>
+  </Object>
